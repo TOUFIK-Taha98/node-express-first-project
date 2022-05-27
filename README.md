@@ -2,4 +2,6 @@
 # Pratique Express
 
 
+`clone project` 
 `npm install` 
+`npm start` 
